@@ -35,6 +35,7 @@ const Index = () => {
           </h2>
         );
       })}
+      <small> - Feito com dedicação - </small>
     </div>
   );
 };
